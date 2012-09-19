@@ -52,6 +52,7 @@
 		C24B878D16097635002087C1 /* 2016.png in Resources */ = {isa = PBXBuildFile; fileRef = C24B878216097635002087C1 /* 2016.png */; };
 		C24B878E16097635002087C1 /* 2016@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C24B878316097635002087C1 /* 2016@2x.png */; };
 		C24B878F16097635002087C1 /* calendar.png in Resources */ = {isa = PBXBuildFile; fileRef = C24B878416097635002087C1 /* calendar.png */; };
+		C270F7CF16097A0400C31A6C /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = C270F7CE16097A0400C31A6C /* README.md */; };
 		E503C8F51600DC83009B7EC7 /* Background.fsh in Resources */ = {isa = PBXBuildFile; fileRef = E503C8DB1600DC81009B7EC7 /* Background.fsh */; };
 		E503C8F61600DC83009B7EC7 /* Background.vsh in Resources */ = {isa = PBXBuildFile; fileRef = E503C8DC1600DC81009B7EC7 /* Background.vsh */; };
 		E503C8F71600DC83009B7EC7 /* Blur.fsh in Resources */ = {isa = PBXBuildFile; fileRef = E503C8DD1600DC81009B7EC7 /* Blur.fsh */; };
@@ -188,6 +189,7 @@
 		C24B878216097635002087C1 /* 2016.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2016.png; sourceTree = "<group>"; };
 		C24B878316097635002087C1 /* 2016@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "2016@2x.png"; sourceTree = "<group>"; };
 		C24B878416097635002087C1 /* calendar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = calendar.png; sourceTree = "<group>"; };
+		C270F7CE16097A0400C31A6C /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 		E503C8DB1600DC81009B7EC7 /* Background.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = Background.fsh; path = shader/Background.fsh; sourceTree = "<group>"; };
 		E503C8DC1600DC81009B7EC7 /* Background.vsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = Background.vsh; path = shader/Background.vsh; sourceTree = "<group>"; };
 		E503C8DD1600DC81009B7EC7 /* Blur.fsh */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.glsl; name = Blur.fsh; path = shader/Blur.fsh; sourceTree = "<group>"; };
@@ -527,6 +529,7 @@
 		E51D307E15A56C0800598044 = {
 			isa = PBXGroup;
 			children = (
+				C270F7CE16097A0400C31A6C /* README.md */,
 				E5AB6BC71608C78200DEA9EA /* icon.png */,
 				E5AB6BC41608C76200DEA9EA /* icon144.png */,
 				E51D309C15A56C0800598044 /* AppDelegate.h */,
@@ -852,6 +855,7 @@
 				C24B878D16097635002087C1 /* 2016.png in Resources */,
 				C24B878E16097635002087C1 /* 2016@2x.png in Resources */,
 				C24B878F16097635002087C1 /* calendar.png in Resources */,
+				C270F7CF16097A0400C31A6C /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
