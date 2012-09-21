@@ -84,12 +84,6 @@ static NSString *const FTUtilsVersionString = @"1.1.0";
 /// @name Math Helpers
 ///---------------------------------------------------------------------------
 
-/** Convert from degrees to radians */
-#define DEGREES_TO_RADIANS(d) (d * M_PI / 180)
-
-/** Convert from radians to degrees */
-#define RADIANS_TO_DEGREES(r) (r * 180 / M_PI)
-
 #pragma mark - Colors
 ///---------------------------------------------------------------------------
 /// @name Creating colors

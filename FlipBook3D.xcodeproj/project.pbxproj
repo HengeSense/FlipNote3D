@@ -86,8 +86,6 @@
 		C29DCF03160AE43B006DA889 /* border-green.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF2160AE43B006DA889 /* border-green.png */; };
 		C29DCF04160AE43B006DA889 /* border-yellow.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF3160AE43B006DA889 /* border-yellow.png */; };
 		C29DCF05160AE43B006DA889 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF4160AE43B006DA889 /* Localizable.strings */; };
-		C29DCF06160AE43B006DA889 /* icon-plus.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF6160AE43B006DA889 /* icon-plus.png */; };
-		C29DCF07160AE43B006DA889 /* icon-plus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF7160AE43B006DA889 /* icon-plus@2x.png */; };
 		C29DCF08160AE43B006DA889 /* icon-setting.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF8160AE43B006DA889 /* icon-setting.png */; };
 		C29DCF09160AE43B006DA889 /* icon-setting@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEF9160AE43B006DA889 /* icon-setting@2x.png */; };
 		C29DCF0A160AE43B006DA889 /* icon-sync.png in Resources */ = {isa = PBXBuildFile; fileRef = C29DCEFA160AE43B006DA889 /* icon-sync.png */; };
@@ -173,7 +171,6 @@
 		E51D309215A56C0800598044 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E51D309115A56C0800598044 /* CoreGraphics.framework */; };
 		E51D309A15A56C0800598044 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E51D309915A56C0800598044 /* main.m */; };
 		E51D309E15A56C0800598044 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E51D309D15A56C0800598044 /* AppDelegate.m */; };
-		E5523F5415C82FC500DBFB07 /* MainUIView.m in Sources */ = {isa = PBXBuildFile; fileRef = E5523F5315C82FC500DBFB07 /* MainUIView.m */; };
 		E5523F5715C82FDA00DBFB07 /* MainUIViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E5523F5615C82FDA00DBFB07 /* MainUIViewController.m */; };
 		E557C5C915FCD444005B7CE4 /* bottomBar.png in Resources */ = {isa = PBXBuildFile; fileRef = E557C5C815FCD443005B7CE4 /* bottomBar.png */; };
 		E55941CB15C5320B005DFD6B /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E559419D15C52C45005DFD6B /* QuartzCore.framework */; };
@@ -295,8 +292,6 @@
 		C29DCEF2160AE43B006DA889 /* border-green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "border-green.png"; sourceTree = "<group>"; };
 		C29DCEF3160AE43B006DA889 /* border-yellow.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "border-yellow.png"; sourceTree = "<group>"; };
 		C29DCEF5160AE43B006DA889 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
-		C29DCEF6160AE43B006DA889 /* icon-plus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-plus.png"; sourceTree = "<group>"; };
-		C29DCEF7160AE43B006DA889 /* icon-plus@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-plus@2x.png"; sourceTree = "<group>"; };
 		C29DCEF8160AE43B006DA889 /* icon-setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-setting.png"; sourceTree = "<group>"; };
 		C29DCEF9160AE43B006DA889 /* icon-setting@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-setting@2x.png"; sourceTree = "<group>"; };
 		C29DCEFA160AE43B006DA889 /* icon-sync.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon-sync.png"; sourceTree = "<group>"; };
@@ -435,8 +430,6 @@
 		E51D309B15A56C0800598044 /* FlipBook3D-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FlipBook3D-Prefix.pch"; sourceTree = "<group>"; };
 		E51D309C15A56C0800598044 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = FlipNote3D/AppDelegate.h; sourceTree = "<group>"; };
 		E51D309D15A56C0800598044 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = FlipNote3D/AppDelegate.m; sourceTree = "<group>"; };
-		E5523F5215C82FC500DBFB07 /* MainUIView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainUIView.h; sourceTree = "<group>"; };
-		E5523F5315C82FC500DBFB07 /* MainUIView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainUIView.m; sourceTree = "<group>"; };
 		E5523F5515C82FDA00DBFB07 /* MainUIViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MainUIViewController.h; sourceTree = "<group>"; };
 		E5523F5615C82FDA00DBFB07 /* MainUIViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MainUIViewController.m; sourceTree = "<group>"; };
 		E557C5C815FCD443005B7CE4 /* bottomBar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bottomBar.png; sourceTree = "<group>"; };
@@ -659,8 +652,6 @@
 				C29DCEF2160AE43B006DA889 /* border-green.png */,
 				C29DCEF3160AE43B006DA889 /* border-yellow.png */,
 				C29DCEF4160AE43B006DA889 /* Localizable.strings */,
-				C29DCEF6160AE43B006DA889 /* icon-plus.png */,
-				C29DCEF7160AE43B006DA889 /* icon-plus@2x.png */,
 				C29DCEF8160AE43B006DA889 /* icon-setting.png */,
 				C29DCEF9160AE43B006DA889 /* icon-setting@2x.png */,
 				C29DCEFA160AE43B006DA889 /* icon-sync.png */,
@@ -884,8 +875,6 @@
 		E5523F5015C82F9100DBFB07 /* main */ = {
 			isa = PBXGroup;
 			children = (
-				E5523F5215C82FC500DBFB07 /* MainUIView.h */,
-				E5523F5315C82FC500DBFB07 /* MainUIView.m */,
 				E5523F5515C82FDA00DBFB07 /* MainUIViewController.h */,
 				E5523F5615C82FDA00DBFB07 /* MainUIViewController.m */,
 			);
@@ -1138,8 +1127,6 @@
 				C29DCF03160AE43B006DA889 /* border-green.png in Resources */,
 				C29DCF04160AE43B006DA889 /* border-yellow.png in Resources */,
 				C29DCF05160AE43B006DA889 /* Localizable.strings in Resources */,
-				C29DCF06160AE43B006DA889 /* icon-plus.png in Resources */,
-				C29DCF07160AE43B006DA889 /* icon-plus@2x.png in Resources */,
 				C29DCF08160AE43B006DA889 /* icon-setting.png in Resources */,
 				C29DCF09160AE43B006DA889 /* icon-setting@2x.png in Resources */,
 				C29DCF0A160AE43B006DA889 /* icon-sync.png in Resources */,
@@ -1165,7 +1152,6 @@
 			files = (
 				E51D309A15A56C0800598044 /* main.m in Sources */,
 				E51D309E15A56C0800598044 /* AppDelegate.m in Sources */,
-				E5523F5415C82FC500DBFB07 /* MainUIView.m in Sources */,
 				E5523F5715C82FDA00DBFB07 /* MainUIViewController.m in Sources */,
 				E503C91A1600DF26009B7EC7 /* Camera3D.m in Sources */,
 				E503C91B1600DF26009B7EC7 /* Object3D.m in Sources */,
