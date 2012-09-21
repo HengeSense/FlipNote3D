@@ -1,0 +1,12 @@
+"invalid email address"
+= "不合法的邮箱地址";
+"password must be at least 6 characters"
+= "密码长度至少为6位";
+"mis-match passwords"
+= "密码和确认密码不匹配";
+"User does not exist."
+= "邮件地址用户不存在";
+"Email and password are not matched."
+= "邮件地址和密码不匹配";
+"email already exist."
+= "邮件地址已经被注册";

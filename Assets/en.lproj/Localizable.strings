@@ -1,0 +1,12 @@
+"invalid email address"
+= "invalid email address";
+"password must be at least 6 characters"
+= "password must be at least 6 characters";
+"mis-match passwords"
+= "mis-match passwords";
+"User does not exist."
+= "User does not exist.";
+"Email and password are not matched."
+= "Email and password are not matched";
+"email already exist."
+= "email already exist.";
